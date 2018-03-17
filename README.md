@@ -1,6 +1,6 @@
-#Praktické aspekty vývoje softwaru - týmová spolupráce na projektu Kalkulačka 
+# Praktické aspekty vývoje softwaru - týmová spolupráce na projektu Kalkulačka 
 
-##Zadání
+## Zadání
 
 "Vytvořte kalkulačku se základními matematickými operacemi (+,-,*,/), faktoriálem, umocňováním s přirozenými exponenty, obecnou odmocninou a jednou další funkcí.
 
@@ -11,17 +11,17 @@ V uživatelské dokumentaci bude mimo jiné i postup instalace a odinstalace pro
 [Odkaz celého zadání](http://ivs.fit.vutbr.cz/projekt-2_tymova_spoluprace2017-18.html)
 
 
-##Prostření 
+## Prostření 
 
 Ubuntu 64bit
 
 
-##Autoři 
+## Autoři 
 -xfreyb00, Petr Freyburg
 -xharud01, Jakub Haruda
 -xkrbal02, Pavel Krbalek
 -xsvobo0u, Jan Svoboda
 
 
-##Licence
+## Licence
 -Tento program je distribuován pod licencí GNU GPL3
