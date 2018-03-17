@@ -17,10 +17,10 @@ Ubuntu 64bit
 
 
 ## Autoři 
--xfreyb00, Petr Freyburg
--xharud01, Jakub Haruda
--xkrbal02, Pavel Krbalek
--xsvobo0u, Jan Svoboda
+- xfreyb00, Petr Freyburg
+- xharud01, Jakub Haruda
+- xkrbal02, Pavel Krbalek
+- xsvobo0u, Jan Svoboda
 
 
 ## Licence
